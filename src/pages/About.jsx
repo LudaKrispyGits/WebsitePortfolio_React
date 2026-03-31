@@ -31,7 +31,7 @@ export default function About() {
   </div>
 
   {/* Separator */}
-  <div className="min-w-full h-[120px] bg-black border-cyan-500 border-b-4 border-t-4 flex justify-center items-center" />
+  <div className="min-w-full h-[90px] bg-black border-cyan-500 border-b-4 border-t-4 flex justify-center items-center" />
 
   <div className="bg-white w-screen flex flex-col items-center gap-4 mb-10 justify-between min-h-screen">
     <div className="flex flex-col items-center gap-3 h-auto mb-10">

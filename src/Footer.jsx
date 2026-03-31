@@ -16,7 +16,7 @@ export default function Footer() {
           <a href="https://www.linkedin.com/in/chrisdoss-jr/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <FaLinkedin className="hover:text-blue-500 transition" />
           </a>
-          <a href="mailto:Christdoss2003@gmail.com" aria-label="Email">
+          <a href="mailto:Ludakrispyplays@gmail.com" aria-label="Email">
             <FaEnvelope className="hover:text-red-400 transition" />
           </a>
           <a href="https://www.behance.net/yourprofile" target="_blank" rel="noopener noreferrer" aria-label="Behance">

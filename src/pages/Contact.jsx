@@ -5,7 +5,7 @@ import { useForm, ValidationError } from '@formspree/react';
 export default function Contact() {
     const [state, handleSubmit] = useForm("mkopwjeq");
   if (state.succeeded) {
-      return <section className="w-full flex justify-center items-center py-12 bg-blue-50"> <h2 className='text-black text-2xl'>Email Recieved! </h2> <p className='text-black'>Thank you for leaving a messeage! reponses are sent within 2-3 business days</p> </section>
+      return <section className="w-full flex justify-center items-center py-12 bg-blue-50"> <h2 className='text-black text-2xl'>Email Recieved! </h2> <p className='text-black'>Thank you for leaving a messeage! i will get back to you as soon as possible</p> </section>
   }
   return (
 <section className="relative w-full flex justify-center items-center py-12 overflow-hidden">
