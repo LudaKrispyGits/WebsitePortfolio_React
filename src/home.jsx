@@ -27,7 +27,7 @@ export default function Body() {
       isTilted={true}
       tiltDirection="right"
       autoplay={true}
-      autoplaySpeed={1.9}
+      autoplaySpeed={1.3}
       autoplayDirection="up"
       pauseOnHover={false}
     />
@@ -36,7 +36,7 @@ export default function Body() {
       <p className="text-2xl font-bold">Chris Doss Jr.</p>
       <h1 className="text-5xl font-bold mb-2 drop-shadow-lg">Welcome to My Portfolio</h1>
       
-      <h3 className="text-xl font-light drop-shadow">Designer  | Developer  | Creator</h3>
+      <h3 className="text-xl font-light drop-shadow">Designer  | Developer  | Engineer</h3>
     </div>
   </div>
 
@@ -82,7 +82,7 @@ export default function Body() {
 
 
   <div className="p-3 flex-1 bg-black text-white justify-center items-center flex">
-    <h1 className='mt-10'>Programming Languages</h1>
+    <h1 className='mt-10'>Programming Skillset</h1>
   </div>
 
   {/* Content Section */}
